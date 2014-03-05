@@ -1,3 +1,3 @@
-<center>  
-${message}  
-</center>
+<div class="well">
+${message}
+</div>
