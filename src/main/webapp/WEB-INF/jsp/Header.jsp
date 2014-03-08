@@ -1,3 +1,5 @@
 <div class="jumbotron">
-	<h1>Sugar Loaf PLoP 2014</h1>
+	<div class="container">
+		<h1 class="h2">SugarLoafPloP 2014</h1>
+	</div>
 </div>

@@ -5,7 +5,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<link href="css/bootstrap.css" rel="stylesheet"/>
-		<link href="css/bootstrap-theme.css" rel="stylesheet"/>  
+		<link href="css/bootstrap-theme.css" rel="stylesheet"/>
+		<link href="css/style.css" rel="stylesheet"/>
 		<title>
 			<tiles:insertAttribute name="title" ignore="true" />  
 		</title>  
@@ -26,6 +27,7 @@
 	        <div class="row">  
 	            <tiles:insertAttribute name="footer" />  
 	        </div>
-	    </div>  
+	    </div>
+	    <script src="js/bootstrap.min.js"></script>
 	</body>  
 </html> 
