@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;  
   
 @Controller
-@RequestMapping("/hello")  
+@RequestMapping("/")  
 public class Home {  
   
     @RequestMapping(method=RequestMethod.GET)
