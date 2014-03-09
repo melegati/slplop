@@ -3,8 +3,7 @@
        "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"  
        "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">  
 <tiles-definitions>  
-    <definition name="base.definition" template="/WEB-INF/jsp/layout.jsp">  
-        <put-attribute name="title" value="" />  
+    <definition name="base.definition" template="/WEB-INF/jsp/layout.jsp">
         <put-attribute name="header" value="/WEB-INF/jsp/header.jsp" />  
         <put-attribute name="menu" value="/WEB-INF/jsp/menu.jsp" />  
         <put-attribute name="body" value="" />  
@@ -12,8 +11,7 @@
     </definition>  
   
     <definition name="page/*" extends="base.definition">  
-        <put-attribute name="title"  
-            value="Being Java Guys | Tiles Integration" />  
+    	<put-attribute name="title" value="Sugar Loaf Plop 2014" />  
         <put-attribute name="body" value="/WEB-INF/jsp/{1}.jsp" />  
     </definition>  
   

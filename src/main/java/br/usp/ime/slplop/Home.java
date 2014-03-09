@@ -19,6 +19,6 @@ public class Home {
     }
 
 	private ModelAndView create(String page) {
-		return new ModelAndView("page/" + page, "message", "Body Content goes Here !");
+		return new ModelAndView("page/" + page);
 	}  
 } 

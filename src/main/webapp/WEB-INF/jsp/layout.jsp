@@ -7,9 +7,7 @@
 		<link href="css/bootstrap.css" rel="stylesheet"/>
 		<link href="css/bootstrap-theme.css" rel="stylesheet"/>
 		<link href="css/style.css" rel="stylesheet"/>
-		<title>
-			<tiles:insertAttribute name="title" ignore="true" />  
-		</title>  
+		<title><tiles:insertAttribute name="title" /></title>  
 	</head>  
 	<body>  
 	    <div class="container">  
@@ -22,10 +20,8 @@
 	            </div>  
 	            <div class="col-xs-10">  
 	            	<tiles:insertAttribute name="body" />
+	            	<tiles:insertAttribute name="footer" />
 	            </div>    
-	        </div>  
-	        <div class="row">  
-	            <tiles:insertAttribute name="footer" />  
 	        </div>
 	    </div>
 	    <script src="js/bootstrap.min.js"></script>
