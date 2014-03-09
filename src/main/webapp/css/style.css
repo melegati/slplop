@@ -1,8 +1,18 @@
+body {
+	background-color: #4f4f4f
+}
+
 .well {
-	background-color: #dbf2fd;
+	background-color: #FFFFFF;
 	background-image: none
 }
 
 .jumbotron {
-	background-color: #dbf2fd;
+	background-color: #4682B4;
+}
+
+.jumbotron h1 {
+	color: #ffffff;
+	font-weight: bold;
+	text-align: center
 }

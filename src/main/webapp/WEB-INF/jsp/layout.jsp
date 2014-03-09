@@ -17,10 +17,10 @@
 	        	<tiles:insertAttribute name="header" />    
 	        </div>  
 	        <div class="row">  
-	            <div class="col-md-2">
+	            <div class="col-xs-2">
 	            	<tiles:insertAttribute name="menu" />
 	            </div>  
-	            <div class="col-md-10">  
+	            <div class="col-xs-10">  
 	            	<tiles:insertAttribute name="body" />
 	            </div>    
 	        </div>  
