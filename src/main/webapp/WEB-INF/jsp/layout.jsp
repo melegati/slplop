@@ -7,7 +7,7 @@
 		<link href="css/bootstrap.css" rel="stylesheet"/>
 		<link href="css/bootstrap-theme.css" rel="stylesheet"/>
 		<link href="css/style.css" rel="stylesheet"/>
-		<title><tiles:insertAttribute name="title" /></title>  
+		<tiles:insertAttribute name="head" />  
 	</head>  
 	<body>  
 	    <div class="container">  
