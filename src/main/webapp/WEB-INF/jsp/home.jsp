@@ -8,13 +8,13 @@ pattern enthusiasts. You will also be able to discuss applications of patterns i
 academia.</p>
 
 <p>SugarLoafPLoP'2014 will be held in one of the most beautiful and receptive cities of Brazil, 
-Natal - Rio Grande do Norte, from September 20th to 22nd, 2012, at the Praiamar Natal Hotel & Convention, 
+Natal - Rio Grande do Norte, from September 20th to 22nd, 2012, at the Praiamar Natal Hotel and Convention, 
 a few days before CBSoft'2014 - the Brazilian Conference on Software: Theory and Practice. The event 
 is organized by the Department of Informatics and Applied Mathematics (DIMAp) from the Federal University 
 of Rio Grande do Norte (UFRN).</p> 
 
 
-<h3Welcome to SugarLoafPLoP'2014!</h3>
+<h3>Welcome to SugarLoafPLoP'2014!</h3>
 
 
 
