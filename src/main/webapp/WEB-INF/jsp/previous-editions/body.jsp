@@ -6,8 +6,20 @@
 		<div class="panel-body">
 			<ul class="list-group">
 				<li class="list-group-item">
+					<b>Mini Plop 2013</b> (Brasília, DF, Brazil)
+					<a href="http://cbsoft2013.unb.br/miniplop">
+						<span class="glyphicon glyphicon-share-alt"></span>
+					</a> 
+				</li>
+				<li class="list-group-item">
 					<b>Sugar Loaf Plop 2012</b> (Natal, RN, Brazil)
 					<a href="http://www.dimap.ufrn.br/sugarloafplop2012/">
+						<span class="glyphicon glyphicon-share-alt"></span>
+					</a> 
+				</li>
+				<li class="list-group-item">
+					<b>Mini Plop 2011</b> (São Paulo, SP, Brazil)
+					<a href="http://www.miniplop.ita.br/">
 						<span class="glyphicon glyphicon-share-alt"></span>
 					</a> 
 				</li>
