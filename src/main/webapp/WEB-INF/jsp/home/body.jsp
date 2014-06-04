@@ -18,16 +18,14 @@
 		</div>
 		<div class="panel-body">
 			<h4>General Chair:</h4>
-			Uira Kulesza (DIMAp/UFRN, Brazil)<br/>
-			Sergio Soares (CIn/UFPE, Brazil)<br/>
+			<a href="mailto:gold@ime.usp.br">Alfredo Goldman</a> (IME/USP, Brazil)<br/>
 			
 			<h4>Program co-Chairs:</h4>
-			Rosana T. Vaccare Braga (ICMC/USP, Brazil)<br/>
-			Mary Lynn Manns (University of North Carolina, USA)<br/>
+			<a href="mailto:guerraem@gmail.com">Eduardo Guerra</a> (INPE, Brazil)<br/>
 			
 			<h4>Local Organization:</h4>
-			Marília Freire (DIMAp/UFRN - IFRN, Brazil)<br/>
-			Daniel Alencar (DIMAp/UFRN, Brazil)<br/>
+			<a href="mailto:thaisbatista@gmail.com">Thais Batista</a><br/>
+			<a href="mailto:mduduchi@gmail.com">Marcelo Duduchi</a><br/>   
 		</div>
 	</div>
 </div>
