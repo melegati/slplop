@@ -10,6 +10,8 @@
 			opportunity to refine and extend your patterns with the help from knowledgeable and sympathetic fellow 
 			pattern enthusiasts. You will also be able to discuss applications of patterns in industry and 
 			academia.</p>
+			<p><b>SugarLoafPLoP 2014</b> will be held at the beautiful island Ilha Bela, São Paulo, 
+			at the Pousada Armação dos Ventos between <b>November 9th and 12th, 2014</b>.
 		</div>
 	</div>
 	<div class="panel panel-default">
