@@ -22,12 +22,12 @@
 			<h4>General Chair:</h4>
 			<a href="mailto:gold@ime.usp.br">Alfredo Goldman</a> (IME/USP, Brazil)<br/>
 			
-			<h4>Program co-Chairs:</h4>
-			<a href="mailto:guerraem@gmail.com">Eduardo Guerra</a> (INPE, Brazil)<br/>
+			<h4>Program Chairs:</h4>
+			<a href="mailto:eduardo.guerra@inpe.br">Eduardo Guerra</a> (INPE, Brazil)<br/>
 			
 			<h4>Local Organization:</h4>
-			<a href="mailto:thaisbatista@gmail.com">Thais Batista</a><br/>
-			<a href="mailto:mduduchi@gmail.com">Marcelo Duduchi</a><br/>   
+			<a href="mailto:fsilveira@unifesp.br">Fábio Fagundes Silveira</a> (ICT/UNIFESP, Brazil)<br/>   
+			<a href="mailto:silvadasilva@unifesp.br">Thiago Silva da Silva </a>(ICT/UNIFESP, Brazil)<br/>
 		</div>
 	</div>
 </div>
