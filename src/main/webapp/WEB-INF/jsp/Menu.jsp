@@ -2,7 +2,7 @@
 	<a href="." class="btn btn-default btn-block">Home</a>
 	<a href="keynotes" class="btn btn-default btn-block disabled">Keynotes</a>
 	<a href="tutorials" class="btn btn-default btn-block disabled">Tutorials</a>
-	<a href="committees" class="btn btn-default btn-block disabled">Committees</a>
+	<a href="committees" class="btn btn-default btn-block">Committees</a>
 	<a href="program" class="btn btn-default btn-block disabled">Program</a>
 	<a href="call-papers" class="btn btn-default btn-block disabled">Call for papers</a>
 	<a href="dates" class="btn btn-default btn-block">Important Dates</a>
