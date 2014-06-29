@@ -11,4 +11,10 @@
 	<a href="venue" class="btn btn-default btn-block">Venue and Location</a>
 	<a href="previous-editions" class="btn btn-default btn-block">Previous Editions</a>
 	<a href="contact" class="btn btn-default btn-block">Contact</a>
+	<div class="well plop-disclaimer">
+		<p>
+			SugarLoafPLoP is a PLoP ® Conference sanctioned by the Hillside Group. PLoP is a registered trademark of The Hillside Group.
+		</p>
+	</div>
 </div>
+
