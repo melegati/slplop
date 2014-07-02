@@ -6,7 +6,7 @@
 	<a href="program" class="btn btn-default btn-block disabled">Program</a>
 	<a href="call-papers" class="btn btn-default btn-block">Call for papers</a>
 	<a href="dates" class="btn btn-default btn-block">Important Dates</a>
-	<a href="submission" class="btn btn-default btn-block disabled">Paper submission</a>
+	<a href="submission" class="btn btn-default btn-block">Paper submission</a>
 	<a href="accepted-papers" class="btn btn-default btn-block disabled">Accepted papers</a>
 	<a href="venue" class="btn btn-default btn-block">Venue and Location</a>
 	<a href="previous-editions" class="btn btn-default btn-block">Previous Editions</a>

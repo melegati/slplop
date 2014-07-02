@@ -5,8 +5,8 @@
 			<h1>SugarLoafPLoP'2014</h1>
 		</div>
 		<div class="panel-body">
-			<a href="http://hillside.net/sugarloafplop/">
-				<b>http://hillside.net/sugarloafplop/</b><br/>
+			<a href="http://hillside.net/sugarloafplop/submission/">
+				<b>http://hillside.net/sugarloafplop/submission/</b><br/>
 			</a>
 			Ilha Bela, Brazil, November 9-12, 2014<br/>
 			<h2>CALL FOR PAPERS</h2>
