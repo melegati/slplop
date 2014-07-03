@@ -96,7 +96,7 @@
 				<li>Authors and shepherds are expected to continue until the final drafts are due.</li>
 			</ul>
 			
-			<p>To submit your paper, please visit: http://www.hillside.net/sugarloafplop/2014/submission. The
+			<p>To submit your paper, please visit: <a href="http://hillside.net/sugarloafplop/submission">http://hillside.net/sugarloafplop/submission</a>. The
 			final version of the paper should be submitted in the PDF format (produced on a highÂ­resolution
 			output device) on letter paper size (8 1/2" x 11") following the ACM single column format. Initial
 			submissions that don't follow the format will be accepted, but the last version should follow the
@@ -104,12 +104,12 @@
 			Word and LaTex:</p>
 			
 			<ul>
-				<li>Single column format Word template: Single Column Template</li>
-				<li>Single column format TeX template: TeX Template</li>
+				<li>Single column format Word template: <a href="http://www.hillside.net/plop/2014/ACM-single-column-plop-word.zip">Single Column Template</a></li>
+				<li>Single column format TeX template: <a href="http://www.hillside.net/plop/2014/ACM-single-column-plop-tex.zip">TeX Template</a></li>
 			</ul>
 			
 			<p>At least one of the authors of accepted papers are expected to register for the conference before the
-			close of earlyÂ­bird registration. Failure to do so may result in acceptance being withdrawn.
+			close of early­bird registration. Failure to do so may result in acceptance being withdrawn.
 			The SugarLoafPLoP proceedings are published after the conference through the ACM Digital
 			Library. Papers published at writer's workshop track at this conference are qualified for submission
 			to the new journal "Transactions on Pattern Languages of Programming" published by Springer.
@@ -121,19 +121,19 @@
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<h3>General Chair:</h3>
-			<a href="mailto:gold@ime.usp.br">Alfredo Goldman</a> (IME/USP, Brazil)<br/>
+			Alfredo Goldman (IME/USP, Brazil)<br/>
 			
 			<h3>Program Chairs:</h3>
-			<a href="mailto:eduardo.guerra@inpe.br">Eduardo Guerra</a> (INPE, Brazil)<br/>
+			Eduardo Guerra (INPE, Brazil)<br/>
 			
 			<h3>Local Organization:</h3>
-			<a href="mailto:fsilveira@unifesp.br">FÃ¡bio Fagundes Silveira</a> (ICT/UNIFESP, Brazil)<br/>   
-			<a href="mailto:silvadasilva@unifesp.br">Thiago Silva da Silva </a>(ICT/UNIFESP, Brazil)<br/>
+			Fábio Fagundes Silveira (ICT/UNIFESP, Brazil)<br/>   
+			Thiago Silva da Silva (ICT/UNIFESP, Brazil)<br/>
 			
 			<h3>Program Committee:</h3>
 				Ademar Aguiar (INESC Porto/University of Porto, Portugal)<br/>
 				Antonio Terceiro (Linaro, Brazil)<br/>
-				Ayla Dantas RebouÃ§as (DCE- UFPB)<br/>
+				Ayla Dantas Rebouças (DCE- UFPB)<br/>
 				Christina von Flach G. Chavez (DCC-UFBA)<br/> 
 				Eduardo Fernandez (Florida Atlantic University, USA)<br/>
 				Fabio Kon (CCSL-IME-USP)<br/>
@@ -146,20 +146,20 @@
 				Paulo Meirelles (FGA-UnB, Brazil)<br/>
 				Lise Hvatum (Schlimberger, USA)<br/>
 				Maria Elena Chavez-Echeagaray  (Arizona State University Tempe, USA)<br/>
-				MaurÃ­cio Aniche (IME-USP)<br/>
+				Maurício Aniche (IME-USP)<br/>
 				Ralph Johnson (University of Illinois at Urbana-Champaign, USA)<br/>
 				Rebecca Wirfs-Brock (Wirfs-Brock Associates, USA)<br/>
 				Richard Gabriel (Dreamsongs)<br/>
 				Rosana Braga (ICMC/USP, Brazil)<br/>
 				Takashi Iba (Keio University, Japan)<br/>
 				Tiago Massoni (DSC/UFCG, Brazil)<br/>
-				UirÃ¡ Kulesza (DIMAP/UFRN, Brazil)<br/>
+				Uirá Kulesza (DIMAP/UFRN, Brazil)<br/>
 			
 			<h2>FOR MORE INFORMATION</h2>
 			
 			<p>For questions regarding the conference program or paper submission, contact the PC chair
 			Eduardo Guerra (guerraem at gmail dot com). For other questions contact the general chair Alfredo
-			Goldman (uirakulesza at dimap dot ufrn dot br)</p>
+			Goldman (goldman at ime dot usp dot br)</p>
 		</div>
 	</div>
 </div>
