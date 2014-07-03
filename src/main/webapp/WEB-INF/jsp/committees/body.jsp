@@ -5,14 +5,14 @@
 		</div>
 		<div class="panel-body">
 			<h3>General Chair:</h3>
-			<a href="mailto:gold@ime.usp.br">Alfredo Goldman</a> (IME/USP, Brazil)<br/>
+			Alfredo Goldman (IME/USP, Brazil)<br/>
 			
 			<h3>Program Chairs:</h3>
-			<a href="mailto:eduardo.guerra@inpe.br">Eduardo Guerra</a> (INPE, Brazil)<br/>
+			Eduardo Guerra (INPE, Brazil)<br/>
 			
 			<h3>Local Organization:</h3>
-			<a href="mailto:fsilveira@unifesp.br">Fábio Fagundes Silveira</a> (ICT/UNIFESP, Brazil)<br/>   
-			<a href="mailto:silvadasilva@unifesp.br">Thiago Silva da Silva </a>(ICT/UNIFESP, Brazil)<br/>
+			Fábio Fagundes Silveira (ICT/UNIFESP, Brazil)<br/>   
+			Thiago Silva da Silva (ICT/UNIFESP, Brazil)<br/>
 			
 			<h3>Program Committee:</h3>
 				Ademar Aguiar (INESC Porto/University of Porto, Portugal)<br/>

@@ -23,7 +23,7 @@
 			Shepherd recommendations due: 22 September 2014<br/>
 			Notification of Acceptance: 10 October 2014<br/>
 			Final Conference Copy Due: 20 October 2014<br/>
-			Conference Dates: 9­12 November 2014<br/>
+			Conference Dates: 9-12 November 2014<br/>
 		</div>
 	</div>
 	
@@ -53,10 +53,10 @@
 
 			<p>The SugarLoafPLoP program is divided in two different tracks:</p>
 			<ul>
-			<li>Writers' Workshop (WW) ­ papers that document patterns and pattern languages will be
+			<li>Writers' Workshop (WW) - papers that document patterns and pattern languages will be
 			workshopped in the traditional PLoP format.</li>
 			
-			<li>Pattern Applications (PA) ­ papers that explore the use and application of patterns, such as
+			<li>Pattern Applications (PA) - papers that explore the use and application of patterns, such as
 			using patterns in industry and academia, tools for using patterns, evaluation of productivity
 			when using patterns, teaching and consulting with patterns, and so on. Both practitioners
 			from the software industry and academics are invited to submit to this track.</li>
@@ -72,11 +72,11 @@
 			<p>The core of SugarLoafPLoP is the Writers' Workshop, where authors work together to improve
 			their papers. Before papers are accepted for a Writers' Workshop, they are shepherded.
 			Shepherding is an iterative process, where an experienced author discusses the submission with its
-			authors to refine the paper prior to the conference. All submissions are peer­reviewed after
+			authors to refine the paper prior to the conference. All submissions are peer-reviewed after
 			shepherding.</p>
 			
 			<p>Following shepherding, papers may be accepted directly into a Writers' Workshop or alternatively,
-			into a Writing Group. Writing Group papers will receive additional face­to­face shepherding at the
+			into a Writing Group. Writing Group papers will receive additional face�to�face shepherding at the
 			conference. Writing Group papers reaching a required standard will be considered for workshop
 			review on the final day of the conference.</p>
 			
@@ -113,8 +113,8 @@
 			The SugarLoafPLoP proceedings are published after the conference through the ACM Digital
 			Library. Papers published at writer's workshop track at this conference are qualified for submission
 			to the new journal "Transactions on Pattern Languages of Programming" published by Springer.
-			See http://hillside.net/tplop/ and http://www.springer.com/home/computer/lncs?SGWID=5­164­2­
-			470309­0 for details of this journal.</p>
+			See <a href="http://hillside.net/plop/">http://hillside.net/plop/</a> and
+			<a href="http://www.springer.com/home/computer/lncs?SGWID=5-164-2-470309-0">http://www.springer.com/home/computer/lncs?SGWID=5-164-2-470309-0</a> for details of this journal.</p>
 		</div>
 	</div>
 
