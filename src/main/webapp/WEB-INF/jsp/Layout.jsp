@@ -14,14 +14,9 @@
 	        <div class="row">  
 	        	<tiles:insertAttribute name="header" />    
 	        </div>  
-	        <div class="row">  
-	            <div class="col-xs-2">
-	            	<tiles:insertAttribute name="menu" />
-	            </div>  
-	            <div class="col-xs-10">  
-	            	<tiles:insertAttribute name="body" />
-	            	<tiles:insertAttribute name="footer" />
-	            </div>    
+	        <div class="row">    
+            	<tiles:insertAttribute name="body" />
+            	<tiles:insertAttribute name="footer" />
 	        </div>
 	    </div>
 	    <script src="js/bootstrap.min.js"></script>
