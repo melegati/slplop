@@ -5,10 +5,6 @@
 			<h1>SugarLoafPLoP'2014</h1>
 		</div>
 		<div class="panel-body">
-			<a href="http://hillside.net/sugarloafplop/submission/">
-				<b>http://hillside.net/sugarloafplop/submission/</b><br/>
-			</a>
-			Ilha Bela, Brazil, November 9-12, 2014<br/>
 			<h2>CALL FOR PAPERS</h2>
 		</div>
 	</div>
@@ -23,7 +19,11 @@
 			Shepherd recommendations due: 22 September 2014<br/>
 			Notification of Acceptance: 10 October 2014<br/>
 			Final Conference Copy Due: 20 October 2014<br/>
-			Conference Dates: 9-12 November 2014<br/>
+			Conference Dates: 9-12 November 2014<br/><br/>
+			<a href="http://hillside.net/sugarloafplop/submission/">
+				<b>http://hillside.net/sugarloafplop/submission/</b><br/>
+			</a>
+			Ilha Bela, Brazil, November 9-12, 2014<br/>
 		</div>
 	</div>
 	

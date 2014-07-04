@@ -28,3 +28,12 @@ body {
 .plop-disclaimer {
 	margin-top: 20px
 }
+
+#support {
+	float: left;
+	margin-right: 30px
+}
+
+#support img, #organization img {
+	margin-right: 20px
+}

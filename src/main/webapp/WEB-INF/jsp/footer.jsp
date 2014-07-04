@@ -1,9 +1,13 @@
 <div class="well">
-	<h4>Support</h4>
-	<a href="http://www.sbc.org.br"><img src="img/logosbc.jpg" width=100 height=144 /></a>
-	<a href="http://www.hillside.net"><img src="img/hillside-logo.png" height=130 /></a>
-	<h4>Organization</h4>
-	<a href="http://www.inpe.br"><img src="img/logoinpe.jpg" width=155 height=133 /></a>
-	<a href="http://www.ime.usp.br"><img src="img/logoime.jpg" width=97 height=130 /></a>
-	<a href="http://www.unifesp.br"><img src="img/logounifesp.png" width=210 height=122 /></a>
+	<div id="support">
+		<h4>Support</h4>
+		<a href="http://www.sbc.org.br"><img src="img/logosbc.jpg" width=50 height=77 /></a>
+		<a href="http://www.hillside.net"><img src="img/hillside-logo.png" height=65 /></a>
+	</div>
+	<div id="organization">
+		<h4>Organization</h4>
+		<a href="http://www.inpe.br"><img src="img/logoinpe.jpg" width=77 height=66 /></a>
+		<a href="http://www.ime.usp.br"><img src="img/logoime.jpg" width=48 height=65 /></a>
+		<a href="http://www.unifesp.br"><img src="img/logounifesp.png" width=105 height=61 /></a>
+	</div>
 </div>
