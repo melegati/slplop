@@ -136,6 +136,7 @@
 				Ayla Dantas Rebouças (DCE- UFPB)<br/>
 				Christina von Flach G. Chavez (DCC-UFBA)<br/> 
 				Eduardo Fernandez (Florida Atlantic University, USA)<br/>
+				Eugene Wallingford (University of Northern Iowa, USA)<br/>
 				Fabio Kon (CCSL-IME-USP)<br/>
 				Filipe Figueiredo Correia (University of Porto / ParadigmaXis, Portugal)<br/>
 				Gustavo H. Rossi (Lifia/UNLP, Argentina)<br/>
