@@ -25,6 +25,8 @@
 	    	$(function(){
 	    		var content = $("body").data("content");
 	    		$("#navbarCollapse").find("[href='" + content + "']").parents("li").addClass("active");
+	    		
+	    		$("#navbarCollapse .disabled").click(function() { return false; });
 	    	});
 	    </script>
 	</body>  
