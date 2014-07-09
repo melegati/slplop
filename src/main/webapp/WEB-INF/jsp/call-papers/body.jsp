@@ -1,11 +1,18 @@
 <div class="well">
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<h1>10th Latin American Conference on Pattern Languages of Programs</h1>
-			<h1>SugarLoafPLoP'2014</h1>
+			<h1>CALL FOR PAPERS</h1>
 		</div>
 		<div class="panel-body">
-			<h2>CALL FOR PAPERS</h2>
+			
+			<p>Paper submissions may include short papers containing one or more patterns, longer pattern languages 
+			or sequences, or works-in-progress by writers wishing to get in-depth shepherding by an experienced author 
+			at the conference. Patterns and pattern languages on other topics, essays on patterns, and visions for 
+			the future are encouraged.</p>
+
+			<p>In addition, you may submit proposals for free-format discussion groups or workshops bringing together
+			people interested in a hot topic related to patterns or proven practices-with a duration about two hours. 
+			Non-conventional formats are welcome.</p>
 		</div>
 	</div>
 
@@ -61,15 +68,6 @@
 			when using patterns, teaching and consulting with patterns, and so on. Both practitioners
 			from the software industry and academics are invited to submit to this track.</li>
 			</ul>
-			
-			<p>Paper submissions may include short papers containing one or more patterns, longer pattern languages 
-			or sequences, or works-in-progress by writers wishing to get in-depth shepherding by an experienced author 
-			at the conference. Patterns and pattern languages on other topics, essays on patterns, and visions for 
-			the future are encouraged.</p>
-
-			<p>In addition, you may submit proposals for free-format discussion groups or workshops bringing together
-			people interested in a hot topic related to patterns or proven practices-with a duration about two hours. 
-			Non-conventional formats are welcome.</p>
 		</div>
 	</div>
 
