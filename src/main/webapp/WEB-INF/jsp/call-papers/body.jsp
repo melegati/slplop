@@ -130,7 +130,7 @@
 			<h3>General Chair:</h3>
 			Alfredo Goldman (IME/USP, Brazil)<br/>
 			
-			<h3>Program Chairs:</h3>
+			<h3>Program Chair:</h3>
 			Eduardo Guerra (INPE, Brazil)<br/>
 			
 			<h3>Local Organization:</h3>

@@ -40,6 +40,9 @@
 				Takashi Iba (Keio University, Japan)<br/>
 				Tiago Massoni (DSC/UFCG, Brazil)<br/>
 				Uirá Kulesza (DIMAP/UFRN, Brazil)<br/>
+				
+			<h3>Web Design and Development:</h3>
+				Jorge Melegati (IME/USP, Brazil)<br/>
 		</div>
 	</div>
 </div>
