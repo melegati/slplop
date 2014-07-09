@@ -29,6 +29,7 @@
 			as usability, security, performance, scalability, internationalization, availability, accessibility and the like. 
 			I will also address the when, where, and how on Quality Scenarios. This will include how to identify, profile, and 
 			outline the relevant quality characteristics.</p>
+			<p>For more information about Joseph Yoder, go to <a href="http://teamsthatinnovate.com/about/">http://teamsthatinnovate.com/about/</a></p>
 		</div>
 	</div>
 	
