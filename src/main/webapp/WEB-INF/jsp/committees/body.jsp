@@ -32,9 +32,10 @@
 				Lise Hvatum (Schlimberger, USA)<br/>
 				Maria Elena Chavez-Echeagaray  (Arizona State University Tempe, USA)<br/>
 				Maurício Aniche (IME-USP)<br/>
+				Milene Serrano (UNB, Brazil)<br/>
 				Ralph Johnson (University of Illinois at Urbana-Champaign, USA)<br/>
 				Rebecca Wirfs-Brock (Wirfs-Brock Associates, USA)<br/>
-				Richard Gabriel (Dreamsongs)<br/>
+				Richard Gabriel (Dream Songs, Inc.)<br/>
 				Rosana Braga (ICMC/USP, Brazil)<br/>
 				Takashi Iba (Keio University, Japan)<br/>
 				Tiago Massoni (DSC/UFCG, Brazil)<br/>

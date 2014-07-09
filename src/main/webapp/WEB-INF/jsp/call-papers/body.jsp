@@ -61,6 +61,15 @@
 			when using patterns, teaching and consulting with patterns, and so on. Both practitioners
 			from the software industry and academics are invited to submit to this track.</li>
 			</ul>
+			
+			<p>Paper submissions may include short papers containing one or more patterns, longer pattern languages 
+			or sequences, or works-in-progress by writers wishing to get in-depth shepherding by an experienced author 
+			at the conference. Patterns and pattern languages on other topics, essays on patterns, and visions for 
+			the future are encouraged.</p>
+
+			<p>In addition, you may submit proposals for free-format discussion groups or workshops bringing together
+			people interested in a hot topic related to patterns or proven practices-with a duration about two hours. 
+			Non-conventional formats are welcome.</p>
 		</div>
 	</div>
 
@@ -148,9 +157,10 @@
 				Lise Hvatum (Schlimberger, USA)<br/>
 				Maria Elena Chavez-Echeagaray  (Arizona State University Tempe, USA)<br/>
 				Maurício Aniche (IME-USP)<br/>
+				Milene Serrano (UNB, Brazil)<br/>
 				Ralph Johnson (University of Illinois at Urbana-Champaign, USA)<br/>
 				Rebecca Wirfs-Brock (Wirfs-Brock Associates, USA)<br/>
-				Richard Gabriel (Dreamsongs)<br/>
+				Richard Gabriel (Dream Songs, Inc.)<br/>
 				Rosana Braga (ICMC/USP, Brazil)<br/>
 				Takashi Iba (Keio University, Japan)<br/>
 				Tiago Massoni (DSC/UFCG, Brazil)<br/>

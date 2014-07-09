@@ -9,7 +9,7 @@
 		<link href="css/style.css" rel="stylesheet"/>
 		<tiles:insertAttribute name="head" />  
 	</head>  
-	<body>  
+	<body data-content="<tiles:insertAttribute name="content" />">  
 	    <div class="container">  
 	        <div class="row">  
 	        	<tiles:insertAttribute name="header" />    
@@ -19,6 +19,13 @@
             	<tiles:insertAttribute name="footer" />
 	        </div>
 	    </div>
+	    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	    <script src="js/bootstrap.min.js"></script>
+	    <script type="text/javascript">
+	    	$(function(){
+	    		var content = $("body").data("content");
+	    		$("#navbarCollapse").find("[href='" + content + "']").parents("li").addClass("active");
+	    	});
+	    </script>
 	</body>  
 </html> 

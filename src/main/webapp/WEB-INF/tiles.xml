@@ -12,7 +12,8 @@
   
     <definition name="page/*" extends="base.definition">
     	<put-attribute name="head" value="/WEB-INF/jsp/{1}/head.jsp" /> 
-        <put-attribute name="body" value="/WEB-INF/jsp/{1}/body.jsp" />  
+        <put-attribute name="body" value="/WEB-INF/jsp/{1}/body.jsp" />
+        <put-attribute name="content" value="{1}" />
     </definition>
   
 </tiles-definitions>
