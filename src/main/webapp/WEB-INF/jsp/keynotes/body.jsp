@@ -3,7 +3,7 @@
 	
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<h3>QA to QA: Shifting from Quality Assurance to Agile Quality</h3>
+			<h3>QA to AQ: Shifting from Quality Assurance to Agile Quality</h3>
 			<h4>Joseph Yoder</h4>
 		</div>
 		<div class="panel-body">
