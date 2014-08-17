@@ -3,7 +3,7 @@
 	
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<h3>QA to AQ: Shifting from Quality Assurance to Agile Quality</h3>
+			<h3>Invited Talk: QA to AQ: Shifting from Quality Assurance to Agile Quality</h3>
 			<h4>Joseph Yoder</h4>
 		</div>
 		<div class="panel-body">
@@ -35,7 +35,7 @@
 	
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<h3>Twenty years of Design Patterns</h3>
+			<h3>Invited Talk: Twenty years of Design Patterns</h3>
 			<h4>Ralph E. Johnson</h4>
 		</div>
 		<div class="panel-body">
@@ -61,7 +61,7 @@
 	
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<h3>Challenges and Opportunities for Software Patterns in the Internet of Things Era</h3>
+			<h3>Invited Talk: Challenges and Opportunities for Software Patterns in the Internet of Things Era</h3>
 			<h4>Rossana M. C. Andrade</h4>
 		</div>
 		<div class="panel-body">
@@ -86,7 +86,7 @@
 	
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			<h3>Pattern Language 3.0: A New Generation of Pattern Languages</h3>
+			<h3>Invited Talk: Pattern Language 3.0: A New Generation of Pattern Languages</h3>
 			<h4>Takashi Iba</h4>
 		</div>
 		<div class="panel-body">
@@ -111,6 +111,40 @@
 			the Frontier of Knowledge" (1998, in Japanese), and many others including "Pattern 
 			Languages" (2013, in Japanese), "Presentation Patterns" (2013, in Japanese, received 
 			the GOOD DESIGN AWARD 2013), and "Social Systems Theory" (2011, in Japanese).</p>
+		</div>
+	</div>
+	
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3>Workshop: Self Travel Cafe: Workshop to Discover Your Aliveness</h3>
+			<h4>Arisa Kamada, Takashi Iba</h4>
+		</div>
+		<div class="panel-body">
+		<b>Abstract:</b>
+		<p>Self Travel Cafe is a workshop, using the Personal Culture Patterns, a pattern language
+		for living with continuous self-fulfillments (Nakada, et al., 2013). Considering one's 
+		personality and characteristics, personal culture, Personal Culture Patterns is a set of 
+		tips to recognize and develop them. By recognizing one's personality and taking it into 
+		consideration in everyday life, you can enjoy the feeling of aliveness. This workshop 
+		will provide an opportunity for you to re-identify yourself to live your life with more 
+		aliveness, using Personal Culture Patterns. After reading Personal Culture Patterns, 
+		participants will have a dialogue on their important values, which help them maintain 
+		their aliveness, referring to the patterns. Keeping in mind the keywords that are the 
+		elements of their aliveness, they will write them in a circle-shaped paper out of a 
+		diverse selection of size and color. Freely arranging the circles, participants will glue 
+		them on a rectangular-shaped paper, creating their own Personal Picture, a new way of 
+		expressing one's aliveness.</p>
+		<b>Biography:</b>
+		<p>Arisa Kamada, a student at Keio University, part-time teacher at BLEA College,
+		and a fashion model, explores a method and workshop to support youth in creating a 
+		living with aliveness. She has created the Personal Culture Patterns, a pattern language 
+		for creating an individual and personal way of living, and has presented it at the 18th
+		European Conference on Pattern Language of Programs. After the conference, 
+		she has held workshops at a renowned bookstore, public school, and private school. 
+		Additionally, she gave a class using Personal Culture Patterns via "schoo", an online 
+		web service, with 1500 viewers. Moreover, she organizes a charity flea market for 
+		the youth to think about social issues such as women's rights, food, environment, and 
+		poverty. She aims to contribute to society through holding such events.</p>
 		</div>
 	</div>
 	
