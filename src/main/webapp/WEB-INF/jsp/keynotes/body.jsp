@@ -36,7 +36,7 @@
 	<div class="panel panel-default">
 		<div class="panel-heading">
 			<h3>Twenty years of Design Patterns</h3>
-			<h4>Ralph E Johnson</h4>
+			<h4>Ralph E. Johnson</h4>
 		</div>
 		<div class="panel-body">
 			<b>Abstract:</b>
@@ -58,4 +58,60 @@
 			in 1985, and retired recently to work on a system for automating business transactions.</p>
 		</div>
 	</div>
+	
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3>Challenges and Opportunities for Software Patterns in the Internet of Things Era</h3>
+			<h4>Rossana M. C. Andrade</h4>
+		</div>
+		<div class="panel-body">
+			<b>Abstract:</b>
+			<p>Internet of things considers everything with intelligence connected in the web: people, 
+			devices, cloud, services and other "things".  This paradigm brings new perspectives to research 
+			since puts together sensors, actuators, embedded systems, ubiquitous systems, big data, 
+			security, and so on. On the other hand, software patterns have been reused and proven to be 
+			good solutions for improving quality. Then, in this talk, both paradigms will be discussed in 
+			an attempt to integrate them and to come up with new challenges and opportunities for research.</p>
+			<b>Biography:</b>
+			<p>Rossana M. C. Andrade is an Associate Professor at Federal University of Ceará, Fortaleza, 
+			Brazil, in the Department of Computer Science. She received her Ph.D from School of Information 
+			Technology and Engineering (SITE), University of Ottawa, Canada, in May 2001. In her thesis, 
+			she works on software patterns for telecommunications and since then she has been involved
+			with the Brazilian pattern community. Andrade does research in the areas of computer networks 
+			and software engineering. Specifically, she is working on alternative solutions to specify and 
+			validate ubiquitous systems as well as to reuse good solutions for their development and to increase 
+			their reliability with the application of formal techniques.</p>
+		</div>
+	</div>
+	
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3>Pattern Language 3.0: A New Generation of Pattern Languages</h3>
+			<h4>Takashi Iba</h4>
+		</div>
+		<div class="panel-body">
+			<b>Abstract:</b>
+			<p>Since the late 1990s, pattern languages began to be applied to an increasing range
+			of fields to encompass creative human actions such as education and innovation. To distinguish 
+			this new generation of  pattern languages that describe patterns for creative human actions, 
+			Iba have named it  "Pattern Language 3.0." As pattern language domains have expanded, so have 
+			its uses. Pattern languages  have been used as media for dialogue to allow the exchange of 
+			personal experiences. In this talk, I present the idea of Pattern Language 3.0, and show 
+			examples of pattern languages as well as new uses for them.</p>
+			<b>Biography:</b>
+			<p>Takashi Iba, a trans-disciplinary researcher, creator, and writer, explores the nature
+			of creativity and works to build media to nurture it. He is an associate professor at the 
+			Faculty of Policy Management and the Graduate School of Media and Governance 
+			of Keio University, Japan. With collaborate with his students, Dr. Iba has created 
+			many pattern languages concerning human actions, including learning, presentations, 
+			collaboration, education, entrepreneurship, and beauty. He received a Ph.D. in Media 
+			and Governance from Keio University in 2003, and continued as a visiting scholar at the 
+			MIT Center for Collective Intelligence, 2009-2010. He has authored many academic 
+			books such as the bestselling "Introduction to Complex Systems: An Adventure to 
+			the Frontier of Knowledge" (1998, in Japanese), and many others including "Pattern 
+			Languages" (2013, in Japanese), "Presentation Patterns" (2013, in Japanese, received 
+			the GOOD DESIGN AWARD 2013), and "Social Systems Theory" (2011, in Japanese).</p>
+		</div>
+	</div>
+	
 </div>
