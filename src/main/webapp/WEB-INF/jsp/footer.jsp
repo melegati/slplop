@@ -10,4 +10,7 @@
 		<a href="http://www.ime.usp.br"><img src="img/logoime.jpg" width=48 height=65 /></a>
 		<a href="http://www.unifesp.br"><img src="img/logounifesp.png" width=105 height=61 /></a>
 	</div>
+	<div id="trademark">
+		<p>©SugarLoafPLoP 2014 / PLoP® is a registered trademark of The Hillside Group.</p>
+	</div> 
 </div>
