@@ -56,3 +56,7 @@ body {
 	margin-top:20px;
 	clear: both;
 }
+
+#organization {
+	float: left
+}

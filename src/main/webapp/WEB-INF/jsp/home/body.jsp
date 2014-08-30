@@ -16,6 +16,17 @@
 	</div>
 	<div class="panel panel-default">
 		<div class="panel-heading">
+			<h2>Call for Writing Patterns</h2>
+		</div>
+		<div class="panel-body">
+			<p>SugarLoafPLoP still receives submission to the Writing Patterns track. This track is intended
+			to first-time patterns writers to take their jobs to discussion by specialists during the conference.
+			These works could be submitted, only by sending an email to  sugarloafplopchairs2014 at hillside dot net
+			until September 29, 2014.  
+		</div>
+	</div>
+	<div class="panel panel-default">
+		<div class="panel-heading">
 			<h3>Organization</h3>
 		</div>
 		<div class="panel-body">

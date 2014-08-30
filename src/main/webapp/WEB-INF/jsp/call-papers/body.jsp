@@ -18,12 +18,25 @@
 
 	<div class="panel panel-default">
 		<div class="panel-heading">
+			<h2>Call for Writing Patterns</h2>
+		</div>
+		<div class="panel-body">
+			<p>SugarLoafPLoP still receives submission to the Writing Patterns track. This track is intended
+			to first-time patterns writers to take their jobs to discussion by specialists during the conference.
+			These works could be submitted, only by sending an email to  sugarloafplopchairs2014 at hillside dot net
+			until September 29, 2014.  
+		</div>
+	</div>
+
+	<div class="panel panel-default">
+		<div class="panel-heading">
 			<h2>SUBMISSION DEADLINES</h2>
 		</div>
 		<div class="panel-body">
 			Deadline for Paper Submission: 11 August 2014<br/>
 			Shepherding Starts: 13 August 2014<br/>
 			Shepherd recommendations due: 22 September 2014<br/>
+			Deadline for Writing Patterns: 29 September 2014<br/>
 			Notification of Acceptance: 10 October 2014<br/>
 			Final Conference Copy Due: 20 October 2014<br/>
 			Conference Dates: 9-12 November 2014<br/><br/>
