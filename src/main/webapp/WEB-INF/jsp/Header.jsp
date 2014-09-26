@@ -26,6 +26,7 @@
 			<li><a href="venue">Location</a></li>
 			<li><a href="previous-editions">Previous Editions</a></li>
 			<li><a href="contact">Contact</a></li>
+			<li><a href="registration">Registration</a></li>
 		</ul>
 	</div>
 </nav>
