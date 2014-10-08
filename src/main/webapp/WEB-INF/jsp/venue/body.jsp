@@ -28,4 +28,25 @@
 		<p>See some pictures <a href="http://www.bl3.com.br/armacao-dos-ventos">here</a>.</p>
 		</div>
 	</div>
+	
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<h3>How to get to Ilhabela?</h3>
+		</div>
+		<div class="panel-body">
+			<h4>From Guarulhos (GRU) airport</h4>
+			<p>There is a bus line connecting Guarulhos airport to Ilhabela. You can book your ticket  
+			<a href="http://www.litoranea.com.br">here</a>  or buy at Litoranea, 
+			the bus company, ticket office.</p>
+			<h4>From Congonhas (CGH) airport - São Paulo city</h4>
+			<p>The best option is to get a bus to Guarulhos airport and then get a bus to Ilhabela. You can
+			also get to Tiete bus station and get a bus to Ilhabela there.</p>
+			<h4>From Viracopos (VCP) airport - Campinas city</h4>
+			<p>From the airport, get a bus to Barra Funda bus station at São Paulo, then get a bus to Guarulhos
+			Airport or for Tiete bus station. There you can get a bus to Ilhabela.
+			<h4>From São José dos Campos (SJC) airport</h4>
+			<p>The fastest way, go to the city bus station and get a bus to Ilhabela.
+		</div>
+	</div>
+	
 </div>
