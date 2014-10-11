@@ -22,6 +22,7 @@
 				Eduardo Fernandez (Florida Atlantic University, USA)<br/>
 				Eugene Wallingford (University of Northern Iowa, USA)<br/>
 				Fabio Kon (CCSL-IME-USP)<br/>
+				Fabio Silveira (UNIFESP, Brazil)<br/>
 				Filipe Figueiredo Correia (University of Porto / ParadigmaXis, Portugal)<br/>
 				Gustavo H. Rossi (Lifia/UNLP, Argentina)<br/>
 				Hugo Sereno Ferreira (INESC Porto/University of Porto, Portugal)<br/>
