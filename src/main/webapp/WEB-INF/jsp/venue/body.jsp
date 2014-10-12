@@ -46,7 +46,7 @@
 			Airport or for Tiete bus station. There you can get a bus to Ilhabela.
 			<h4>From São José dos Campos (SJC) airport</h4>
 			<p>The fastest way, go to the city bus station and get a bus to Ilhabela.
-			<h4>Suttles</h4>
+			<h4>Complimentary shuttles</h4>
 			<p>There will be two shuttles leaving from São Paulo (Congonhas Airport, USP and Guarulhos Airport) 
 			direct to the inn on Sunday and coming back on Wednesday. The availability is limited.
 		</div>
