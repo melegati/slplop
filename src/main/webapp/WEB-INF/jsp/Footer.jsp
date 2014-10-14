@@ -3,6 +3,7 @@
 		<h4>Support</h4>
 		<a href="http://www.sbc.org.br"><img src="img/logosbc.jpg" width=50 height=77 /></a>
 		<a href="http://www.hillside.net"><img src="img/hillside-logo.png" height=65 /></a>
+		<a href="http://www.casadocodigo.com.br/"><img src="img/casa-do-codigo-green.svg" width=198 height=66 /></a>
 	</div>
 	<div id="organization">
 		<h4>Organization</h4>
@@ -13,7 +14,7 @@
 	<div id="sponsoring">
 		<h4>Sponsoring</h4>
 		<a href="http://www.capes.br"><img src="img/capes.jpg" width=81 height=66 /></a>
-		<a href="http://www.fapesp.br"><img src="img/fapesp_logo.jpg" width=198 height=66 /></a>
+		<a href="http://www.fapesp.br"><img src="img/fapesp_logo.jpg" width=185 height=66 /></a>
 	</div>
 	<div id="trademark">
 		<p>©SugarLoafPLoP 2014 / PLoP® is a registered trademark of The Hillside Group.</p>
