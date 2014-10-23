@@ -60,3 +60,15 @@ body {
 #organization {
 	float: left
 }
+
+.accepted-papers h3 {
+	padding-bottom: 20px
+}
+
+.accepted-papers h4 {
+	font-weight: bold
+}
+
+.accepted-papers p {
+	margin-bottom: 50px
+}

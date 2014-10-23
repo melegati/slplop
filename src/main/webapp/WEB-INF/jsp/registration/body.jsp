@@ -4,7 +4,16 @@
 			<h2>Registration</h2>
 		</div>
 		<div class="panel-body">
-			Including hotel, breakfast, lunch and dinner (except drinks).
+		    <p>Registration includes:</p>
+		    <ul>	
+				<li>Hotel, breakfast, lunch and dinner (except drinks).</li>
+				<li>Access to all conference sessions, talks and activities at SugarLoafPLoP' 2014</li>
+				<li>Coffee-breaks</li>
+				<li>Conference material and proceedings</li>
+				<li>1 conference T-shirt</li>  
+			</ul>
+			<p>Note this price is for a shared room, if you prefer to stay alone, please contact the 
+			organization.</p>
 			<table class="table">
 				<tr>
 					<td></td>

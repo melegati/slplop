@@ -47,8 +47,9 @@
 			<h4>From São José dos Campos (SJC) airport</h4>
 			<p>The fastest way, go to the city bus station and get a bus to Ilhabela.
 			<h4>Complimentary shuttles</h4>
-			<p>There will be two shuttles leaving from São Paulo (Congonhas Airport, USP and Guarulhos Airport) 
-			direct to the inn on Sunday and coming back on Wednesday. The availability is limited.
+			<p>There will be up to 4 shuttles (for 15 persons each) leaving from São Paulo (Congonhas Airport, USP and Guarulhos Airport) 
+			direct to the inn on Sunday and coming back on Wednesday. The availability is limited. If you are interested in a shuttle,
+			please fill in this <a href="http://bit.ly/1teE311">form</a>.
 		</div>
 	</div>
 	

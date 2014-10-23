@@ -22,7 +22,7 @@
 			<li><a href="call-papers">Call for papers</a></li>
 			<li><a href="dates">Dates</a></li>
 			<li><a href="submission">Submission</a></li>
-			<li><a href="accepted-papers" class="disabled">Accepted papers</a></li>
+			<li><a href="accepted-papers">Accepted papers</a></li>
 			<li><a href="venue">Location</a></li>
 			<li><a href="previous-editions">Previous Editions</a></li>
 			<li><a href="contact">Contact</a></li>
