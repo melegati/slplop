@@ -18,7 +18,7 @@
 			<li><a href="keynotes">Keynotes</a></li>
 			<li><a href="tutorials" class="disabled">Tutorials</a></li>
 			<li><a href="committees">Committees</a></li>
-			<li><a href="program" class="disabled">Program</a></li>
+			<li><a href="program">Program</a></li>
 			<li><a href="call-papers">Call for papers</a></li>
 			<li><a href="dates">Dates</a></li>
 			<li><a href="submission">Submission</a></li>
