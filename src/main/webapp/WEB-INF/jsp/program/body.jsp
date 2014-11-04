@@ -173,7 +173,7 @@
 				<P>20:00 &ndash; 21:00</P>
 			</TD>
 			<TD WIDTH=82%>
-				<P>Informal music consert<BR>(it's informal, so bring your
+				<P>Informal music concert<BR>(it's informal, so bring your
 				instrument and join us!!!)</P>
 			</TD>
 		</TR>
@@ -182,7 +182,7 @@
 	<table class="table table-bordered table-condensed">
 		<TR VALIGN=TOP>
 			<TD WIDTH=18%>
-				<P>7:30 &ndash; 8:30</P>
+				<P>7:00 &ndash; 8:00</P>
 			</TD>
 			<TD WIDTH=82%>
 				<P>Breakfast</P>
@@ -190,18 +190,43 @@
 		</TR>
 		<TR VALIGN=TOP>
 			<TD WIDTH=18%>
-				<P>8:30 &ndash; 11:30</P>
+				<P>8:00 &ndash; 9:00</P>
 			</TD>
 			<TD WIDTH=82%>
-				<P>Special Event</P>
+				<P>Invited Talk: Pattern Language 3.0: A New Generation of Pattern Languages</P>
+				<p>Takashi Iba</p>
 			</TD>
 		</TR>
 		<TR VALIGN=TOP>
 			<TD WIDTH=18%>
-				<P>11:30 &ndash; 12:00</P>
+				<P>9:00 &ndash; 10:00</P>
 			</TD>
 			<TD WIDTH=82%>
-				<P>Reading Time + Onsite Shepherding</P>
+				<P>Writer's Workshop - Session C</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=18%>
+				<P>10:00 &ndash; 10:30</P>
+			</TD>
+			<TD WIDTH=82%>
+				<P>Coffee Break</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=18%>
+				<P>10:30 &ndash; 11:00</P>
+			</TD>
+			<TD WIDTH=82%>
+				<P>Reading Time + Onsite Sheperding</P>
+			</TD>
+		</TR>
+		<TR VALIGN=TOP>
+			<TD WIDTH=18%>
+				<P>11:00 &ndash; 12:00</P>
+			</TD>
+			<TD WIDTH=82%>
+				<P>Writer's Workshop - Session D</P>
 			</TD>
 		</TR>
 		<TR VALIGN=TOP>
@@ -224,23 +249,15 @@
 		</TR>
 		<TR VALIGN=TOP>
 			<TD WIDTH=18%>
-				<P>14:00 &ndash; 15:00</P>
+				<P>14:00 &ndash; 17:00</P>
 			</TD>
 			<TD WIDTH=82%>
-				<P>Writers' Workshop &ndash; Session C</P>
-			</TD>
-		</TR>
-		<TR VALIGN=TOP>
-			<TD WIDTH=18%>
-				<P>15:00 &ndash; 15:30</P>
-			</TD>
-			<TD WIDTH=82%>
-				<P>Coffee Break</P>
+				<P>Special Event</P>
 			</TD>
 		</TR>
 		<TR VALIGN=TOP>
 			<TD ROWSPAN=2 WIDTH=18% HEIGHT=82>
-				<P>15:30 &ndash; 17:30</P>
+				<P>17:00 &ndash; 18:30</P>
 			</TD>
 			<TD WIDTH=82%>
 				<P>Pattern Application Sessions</P>
@@ -248,10 +265,10 @@
 		</TR>
 		<TR VALIGN=TOP>
 			<TD WIDTH=82%>
-				<P>15:30 &ndash; 16:10:  Personal Picture Method for Self Design</P>
-				<P>16:10 &ndash; 16:50:  Um Estudo Explorat&oacute;rio da
+				<P>17:00 &ndash; 17:30:  Personal Picture Method for Self Design</P>
+				<P>17:30 &ndash; 18:00:  Um Estudo Explorat&oacute;rio da
 				Arquitetura e Projeto de Aplicativos Android</P>
-				<P>16:50 &ndash; 17:30: OWSE-AF: Um Framework para Desenvolvimento
+				<P>18:00 &ndash; 18:30: OWSE-AF: Um Framework para Desenvolvimento
 				de Aplica&ccedil;&otilde;es Web</P>
 			</TD>
 		</TR>
