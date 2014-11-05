@@ -48,7 +48,7 @@
 	pattern was applied in the design of arguments of two systems from automotive and avionics domains.</p>
 	
 	
-	<h4><a href="papers/11.2.pdf">Gerência de Variabilidades na Plataforma Android (Writing Group)</a></h4>
+	<h4><a href="papers/11.3.pdf">Gerência de Variabilidades na Plataforma Android (Writing Group)</a></h4>
 	<h5>Adorilson Bezerra, Uirá Kulesza, Rodrigo Bonifácio, Elder Cirilo, Edmilson Campos Neto</h5>	
 	
 	<p>Over the past few years there has been rapid growth in the use and demand for mobile application 
@@ -99,7 +99,7 @@
 	
 	<p>Este trabalho apresenta um padrão de projeto de apoio à implementação de relacionamentos entre entidades representadas por metamodelos em sistemas dinamicamente adaptáveis. Os relacionamentos que o Dynamic Relations contempla são dependências simples, relacionamentos de associação, um para um, um para muitos e muitos para muitos.</p>
 	
-	<h3>Group C</h3>
+	<h3>Group C - The Prototypes - Facilitator Takashi Iba</h3>
 	
 	<h4><a href="papers/8.2.pdf">The Last Two TestDriven Development Step Patterns: Bug Locator and Pause for Housekeeping (Writer's Workshop)</a></h4>
 	<h5>Eduardo Guerra, Joseph Yoder, Maurício Finavaro Aniche, Marco Aurélio Gerosa</h5>	
@@ -155,7 +155,7 @@
 	
 	<p>Este artigo apresenta um estudo exploratório de análise de arquiteturas de aplicações desenvolvidas para a plataforma Android. Ao todo foram analisados código de seis aplicativos opensource, selecionados por amostragem entre os mais populares da loja oficial de aplicativos Android, a Google Play. A metodologia do trabalho consistiu em extrair o código dos aplicativos diretamente dos seus repositórios e aplicar técnicas de engenharia de reversa para investigar a arquitetura de cada um deles. O objetivo principal do estudo foi investigar as decisões comuns adotadas por desenvolvedores para a modularização da arquitetura de aplicações Android. O artigo apresenta análises qualitativas realizadas sobre as arquiteturas extraídas, com base em três critérios predefinidos no estudo: (i) análise arquitetural; (ii) utilização de padrões de projeto gerais ou específicos da plataforma Android; e (iii) política de tratamento de exceções adotada.</p>
 	
-	<h4><a href="papers/13.4.pdf">OWSE-AF: Um Framework para Desenvolvimento de Aplicações Web</a></h4>
+	<h4><a href="papers/13.5.pdf">OWSE-AF: Um Framework para Desenvolvimento de Aplicações Web</a></h4>
 	<h5>Leo Silva, Uirá Kulesza, Ulisses Telemaco</h5>	
 	
 	<p>Este artigo apresenta um framework para desenvolvimento de aplicações web, chamado de OWSE-AF. Ele detalha a arquitetura e projeto do framework desenvolvido com o propósito de melhorar a produtividade de desenvolvimento de sistemas web implementados na linguagem Java. Padrões de projeto adotados no framework são apresentados para detalhar seu projeto. O artigo detalha, também, a experiência de uso do framework em projetos de desenvolvimento de software.</p>
