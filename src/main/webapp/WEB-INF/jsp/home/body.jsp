@@ -1,6 +1,17 @@
 <div class="well">
 	<div class="panel panel-default">
 		<div class="panel-heading">
+			<h2>Final version upload</h2>
+		</div>
+		<div class="panel-body">
+			<p>Please read the instructions and submit the final version before that deadline, which is
+			February 1st 2015. If you want your paper to be included in the ACM library, it is important
+			that you follow the template in your paper, and that you send the release form according to
+			the <a href="http://hillside.net/sugarloaf/2014/upload">instructions</a>.</p>
+		</div>
+	</div>
+	<div class="panel panel-default">
+		<div class="panel-heading">
 			<h2>Welcome!</h2>
 		</div>
 		<div class="panel-body">
@@ -12,17 +23,6 @@
 			academia.</p>
 			<p><b>SugarLoafPLoP 2014</b> will be held at the beautiful island Ilha Bela, São Paulo, 
 			at the Pousada Armação dos Ventos between <b>November 9th and 12th, 2014</b>.
-		</div>
-	</div>
-	<div class="panel panel-default">
-		<div class="panel-heading">
-			<h2>Call for Writing Patterns</h2>
-		</div>
-		<div class="panel-body">
-			<p>SugarLoafPLoP still receives submission to the Writing Patterns track. This track is intended
-			to first-time patterns writers to take their jobs to discussion by specialists during the conference.
-			These works could be submitted, only by sending an email to  sugarloafplopchairs2014 at hillside dot net
-			until September 29, 2014.  
 		</div>
 	</div>
 	<div class="panel panel-default">

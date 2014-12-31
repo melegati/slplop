@@ -21,7 +21,7 @@
 			<li><a href="program">Program</a></li>
 			<li><a href="call-papers">Call for papers</a></li>
 			<li><a href="dates">Dates</a></li>
-			<li><a href="submission">Submission</a></li>
+			<li><a href="http://hillside.net/sugarloaf/2014/upload">Final Version Submission</a></li>
 			<li><a href="accepted-papers">Accepted papers</a></li>
 			<li><a href="venue">Location</a></li>
 			<li><a href="previous-editions">Previous Editions</a></li>
